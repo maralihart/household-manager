@@ -23,11 +23,19 @@
 
 ### To-Do List
 
+**Task List**
+
 - Create, edit, delete tasks
 - Add due date
 - Assign people
 - Allow for subtasks
 - Sorting
+- Allow for multiple lists
+- Notification
+
+**Daily Planner**
+
+- Pick tasks and have them in a separate list for things you want to accomplish for the day. Shared between household
 
 ### Meal Planning
 
@@ -44,3 +52,7 @@
 **Meal Prep For Week**
 
 - Pull recipes from recipe book
+
+### Shared Calendar
+
+- Google calendar integration
