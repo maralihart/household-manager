@@ -23,4 +23,24 @@
 
 ### To-Do List
 
--
+- Create, edit, delete tasks
+- Add due date
+- Assign people
+- Allow for subtasks
+- Sorting
+
+### Meal Planning
+
+**Recipe Book**
+
+- Enter a website and parse the recipe
+- Create custom recipes with ingredients and steps
+
+**Grocery List**
+
+- Create list based on recipes selected for the week
+- Create integration with to-do list to see grocery list
+
+**Meal Prep For Week**
+
+- Pull recipes from recipe book
